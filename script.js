@@ -1,0 +1,1 @@
+console.log('file is created in scripts folder');
