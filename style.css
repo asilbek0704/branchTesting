@@ -11,3 +11,7 @@ h1 {
 p {
   font-family: sans-serif;
 }
+
+a {
+  text-decoration: none;
+}
