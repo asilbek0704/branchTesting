@@ -1,0 +1,8 @@
+---
+myObj:
+  myKey: 1
+  myArray:
+    - "myElement1"
+    - "myElement2"
+    - "myElement3"
+...
